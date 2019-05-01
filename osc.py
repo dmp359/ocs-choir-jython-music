@@ -162,7 +162,9 @@ def detect_horizontal_alto(message):
     horizAmount = args[0]
     play(v3)
 
-# Seperate file: hard mode with no mapping
+'''
+Voices
+'''
 LOWEST_PITCH_REPRESENTED = 36 - 2 # 2 below C2
 HIGHEST_PITCH_REPRESENTED = 84
 
